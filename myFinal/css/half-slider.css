@@ -1,0 +1,99 @@
+/*!
+ * Start Bootstrap - Half Slider HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+html,
+body {
+    height: 100%;
+}
+
+/* You can change the height of the carousel by changing the height in the class below. It is set to 50% by default, but can be any height! */
+
+.carousel {
+    height: 50%;
+}
+
+.item,
+.active,
+.carousel-inner {
+    height: 100%;
+}
+
+/* Background images are set within the HTML using inline CSS, not here */
+
+.fill {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+h1 {
+  text-align: center;
+  color: #ca1e5b;
+}
+
+.intro-heading {
+  text-align: center;
+  color: #000;
+}
+
+.section-heading {
+  color: #ca1e5b;
+  text-align: center;
+}
+
+.social {
+  display: inline-block;
+  float: right;
+}
+
+footer .row {
+  display: inline-block;
+}
+
+p{
+  color: #000;
+}
+
+.facts {
+  border: 2px solid #f38ab3;
+  border-radius: 5px;
+}
+
+.record {
+  display: block;
+  text-align: center;
+}
+
+.loginbutton {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-bottom: 0;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-color: #811439;
+    color: #fff;
+    border: 1px solid transparent;
+    border-radius: 10px;
+}

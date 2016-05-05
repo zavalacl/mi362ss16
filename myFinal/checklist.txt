@@ -1,0 +1,17 @@
+100 - Hosted on Heroku (Required)
+100 - Custom domain name (Required)
+100 - Instructor/discretionary (Required, looking for quality, originality, spelling/grammer, overall project polish) 
+300 - 4 complete HTML pages with content
+200 - Custom CSS or Bootstrap for design (all pages)
+50 - Use at least two custom images (original photography or illustration)
+50 - Integrate a JavaScript component
+50 - Integrate non-Heroku 3rd party widget
+50 - Use a 3rd party font icon like FontAwesome
+
+Also hosted on https://agile-mesa-78932.herokuapp.com/
+More than 4 pages of HTML: main, about, sisters, events, login, members
+Used both custom CSS and Bootstrap framework on all pages
+All original photographs
+Member login, though not secure (YET!), uses javascript
+Social media links are integrated by a free widget service
+The 3 icons on homepage are made with FontAwesome
